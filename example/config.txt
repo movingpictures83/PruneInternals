@@ -1,0 +1,2 @@
+Prefix plugins/PruneInternals/example/
+Plugin PruneInternals inputfile taxtree.tre outputfile taxtree.pruned.tre
